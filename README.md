@@ -103,7 +103,12 @@ gpkg new type/name-version  添加新的编译脚本
 4. 桌面全局环境变量设置: /usr/bin/sway-run
 
 下载地址:
-1. baiduNetDisk:
+1. SourceForge
+	https://sourceforge.net/projects/xiangelinux/files/latest/download
+	
+2. baiduNetDisk:
 
 链接:https://pan.baidu.com/s/1LVHKgi9W0JrELBmMuOxJOg 提取码:eyn4
 从里面找最新的发行版即可。
+
+
